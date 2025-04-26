@@ -11,3 +11,4 @@ else{
  printf("The divison is not possible");
 
  return 0;
+ }
